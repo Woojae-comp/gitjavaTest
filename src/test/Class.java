@@ -7,14 +7,6 @@ public class Class {
 		int x = 100;
 		int y = 120;
 		System.out.println(x + y);
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
