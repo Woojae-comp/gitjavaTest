@@ -34,6 +34,4 @@ public class For_practice {
 		}
 		System.out.println(sum2);
 	}
-	
-
 }
