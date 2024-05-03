@@ -64,6 +64,10 @@ public class Class {
 		
 		System.out.println("문자열로 변환된 값 : " + strint + strint); // 문자열 3.14가 실수로 바뀜 
 		
+		System.out.printf("정수값 출력: %d", num10); //%d, %f, %s
+		
+		
+		
 		
 	}
 	
